@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ToNizz7
+- 👀 I’m interested in learning new stuff
+- 💞️ I’m developing fivem servers
